@@ -2,8 +2,10 @@
 sistemasprogramables-bluemonday created by GitHub Classroom
 
 
-# Sensores de imagen digital (fotografía): CCD o CMOS
-Uds, usarán el MOVIDIUS ($100 dlls) con RaspberryPI 4 ($78 dlls) para la detección de personas y objetos.
+# ![](https://images.cooltext.com/5387872.gif)
+
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
 
 
 
