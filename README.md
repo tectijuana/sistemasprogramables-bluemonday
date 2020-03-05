@@ -26,8 +26,7 @@ cuenta la presión que se mide, ya que pueden distinguirse los siguientes tipos:
 Para medir la presión se utilizan sensores que están dotados de un elemento sensible a la presión y que emiten una señal eléctrica al variar la presión
 o que provocan operaciones de conmutación si esta supera un determinado valor límite.
 
-Control de sujeción, Succión de elementos, succión de tornillos en atornilladores automáticos, apretado de tuercas automáticas, control de fuerza en 
-pinzas prensoras, confirmación de presión a la soldadura.
+Control de sujeción, Succión de elementos, succión de tornillos en atornilladores automáticos, apretado de tuercas automáticas, control de fuerza en pinzas prensoras, confirmación de presión a la soldadura.
 Los sensores piezorresistivos de la presión del silicio de la detección y del control de Honeywell contienen los elementos de detección que consisten 
 en cuatro piezoresistores enterrados frente a un diafragma fino, químico-grabado al agua fuerte del silicio. Un cambio de la presión hace el diafragma 
 doblar, induciendo una tensión en el diafragma y los resistores enterrados. Los valores del resistor cambian en proporción con la tensión aplicada y 
@@ -36,8 +35,7 @@ producen una salida eléctrica.
 ## *Características*
 
 * Estos sensores son pequeños, bajos costo y confiables. 
-* Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de
-condiciones ambientales. 
+* Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de condiciones ambientales. 
 * Además, ofrecen características de funcionamiento alto constantes a partir de un sensor al siguiente, 
 y de la capacidad de intercambio sin la recalibración. 
 * Mejor usado para: Dispositivos médicos y de la HVAC, equipo del almacenaje de datos y de la cromatografía de gas, 
