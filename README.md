@@ -35,10 +35,10 @@ producen una salida eléctrica.
 
 ### *Características*
 
-:white_check_mark:* Estos sensores son pequeños, bajos costo y confiables. 
-:white_check_mark:* Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de condiciones ambientales. 
+:white_check_mark:* Estos sensores son pequeños, bajos costo y confiables.   
+:white_check_mark:* Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de condiciones ambientales.  
 :white_check_mark:* Además, ofrecen características de funcionamiento alto constantes a partir de un sensor al siguiente, 
-y de la capacidad de intercambio sin la recalibración. 
+y de la capacidad de intercambio sin la recalibración.    
 :white_check_mark:* Mejor usado para: Dispositivos médicos y de la HVAC, equipo del almacenaje de datos y de la cromatografía de gas, 
 controles de proceso, maquinaria industrial, bombas y robótica. 
 
