@@ -13,7 +13,7 @@ Cada vez que se ejerce la presión se produce una deflexión, distorsión o tamb
 
 ## Objetivos 
 
-:radio_button: Estudiar los sensores de presión y aprender en su totalidad su funcionalidad así como también en donde se utilizan y que      beneficios pueden darse de estos mismos.   
+:radio_button: Estudiar los sensores de presión y aprender en su totalidad su funcionalidad.   
 :radio_button: Conocer distintas definiciones de presión.   
 :radio_button: Conocer tipos de sensores de presión.    
 
@@ -32,6 +32,20 @@ cuenta la presión que se mide, ya que pueden distinguirse los siguientes tipos:
 :cd:*Presión absoluta.*  
 :cd:*Presión diferencial.*  
 :cd:*Sobrepresión.*  
+
+### Definicion de Sensor
+
+Un sensor es un dispositivo capaz de detectar diferentes tipos de materiales, con el objetivo de mandar una señal y permitir que continué un proceso que le sea programado, o simplemente detectar un cambio; dependiendo de cuál sea  el caso.  
+Los términos que conforman a un sensor son:    
+:black_square_button: Exactitud  
+:black_square_button: Precisión   
+:black_square_button: Rango de funcionamiento  
+:black_square_button: Velocidad de respuesta  
+:black_square_button: Calibración  
+:black_square_button: Fiabilidad  
+:black_square_button: Distancia Operativa  
+:black_square_button: Histéresis    
+
 
 ### *Funcionamiento*
 
