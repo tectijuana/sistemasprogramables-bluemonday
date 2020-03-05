@@ -21,18 +21,19 @@ cuenta la presión que se mide, ya que pueden distinguirse los siguientes tipos:
 * *Presión diferencial* 
 * *Sobrepresión* 
 
-## *Funcionamiento*
+### *Funcionamiento*
 
 Para medir la presión se utilizan sensores que están dotados de un elemento sensible a la presión y que emiten una señal eléctrica al variar la presión
 o que provocan operaciones de conmutación si esta supera un determinado valor límite.
 
 Control de sujeción, Succión de elementos, succión de tornillos en atornilladores automáticos, apretado de tuercas automáticas, control de fuerza en pinzas prensoras, confirmación de presión a la soldadura.
+
 Los sensores piezorresistivos de la presión del silicio de la detección y del control de Honeywell contienen los elementos de detección que consisten 
 en cuatro piezoresistores enterrados frente a un diafragma fino, químico-grabado al agua fuerte del silicio. Un cambio de la presión hace el diafragma 
 doblar, induciendo una tensión en el diafragma y los resistores enterrados. Los valores del resistor cambian en proporción con la tensión aplicada y 
 producen una salida eléctrica.
 
-## *Características*
+### *Características*
 
 * Estos sensores son pequeños, bajos costo y confiables. 
 * Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de condiciones ambientales. 
@@ -51,10 +52,11 @@ controles de proceso, maquinaria industrial, bombas y robótica.
 ![PN](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOTAAhQibAW_uDG63_XO0JduScTG-Fdf6zcRdENoQ50_DYRcNV)
 
 
-
-
 3.  SENSOR DE PRESION ELECTROMECANICO: RESISTIVOS
-![PER]()
+![PER](https://sites.google.com/site/tema8otrostransductores/_/rsrc/1361274694122/5-transductores-de-presion/transductores2.jpg)
+![PER2](https://sites.google.com/site/tema8otrostransductores/_/rsrc/1361274725997/5-transductores-de-presion/imagen.php.jpeg?height=320&width=320)
+
+
 4.  SENSOR DE PRESION ELECTROMECANICO: INDUCCIÓN VARIABLE Y MAG. RELUCTANCIA VARIABLE.
 ![PEIVMRV] ()
 5.  SENSOR DE PRESION ELECTROMECANICO: MAGNETICOCAPACITIVO.
