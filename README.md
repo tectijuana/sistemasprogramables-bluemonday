@@ -11,7 +11,7 @@ sistemasprogramables-bluemonday created by GitHub Classroom
 
 | Equipo | Sensor | Notas |
 |-------------|----------------|--------------|
-| a        |                |              |
+| a        | Sensor presion               |              |
 | b           |                |              |
 | c           |                |              |
 | d           |                |              |
