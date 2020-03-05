@@ -18,8 +18,8 @@ al variar la presión o que provocan operaciones de conmutación si esta supera 
 cuenta la presión que se mide, ya que pueden distinguirse los siguientes tipos:
 
 *:cd: *Presión absoluta*
-:cd:* *Presión diferencial* 
-:cd:* *Sobrepresión* 
+*:cd: *Presión diferencial* 
+*:cd: *Sobrepresión* 
 
 ### *Funcionamiento*
 
