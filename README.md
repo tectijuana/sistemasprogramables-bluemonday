@@ -17,9 +17,9 @@ Para medir la presión se utilizan sensores que están dotados de un elemento se
 al variar la presión o que provocan operaciones de conmutación si esta supera un determinado valor límite. Es importante tener en 
 cuenta la presión que se mide, ya que pueden distinguirse los siguientes tipos:
 
-:cd: Presión absoluta
-* *Presión diferencial* 
-* *Sobrepresión* 
+:cd:*Presión absoluta
+:cd:*Presión diferencial* 
+:cd:*Sobrepresión* 
 
 ### *Funcionamiento*
 
@@ -35,11 +35,11 @@ producen una salida eléctrica.
 
 ### *Características*
 
-* Estos sensores son pequeños, bajos costo y confiables. 
-* Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de condiciones ambientales. 
-* Además, ofrecen características de funcionamiento alto constantes a partir de un sensor al siguiente, 
+:white_check_mark: Estos sensores son pequeños, bajos costo y confiables. 
+:white_check_mark: Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de condiciones ambientales. 
+:white_check_mark: Además, ofrecen características de funcionamiento alto constantes a partir de un sensor al siguiente, 
 y de la capacidad de intercambio sin la recalibración. 
-* Mejor usado para: Dispositivos médicos y de la HVAC, equipo del almacenaje de datos y de la cromatografía de gas, 
+:white_check_mark: Mejor usado para: Dispositivos médicos y de la HVAC, equipo del almacenaje de datos y de la cromatografía de gas, 
 controles de proceso, maquinaria industrial, bombas y robótica. 
 
 ### *Tipos de sensores de presión*
