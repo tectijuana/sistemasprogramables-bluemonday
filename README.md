@@ -19,9 +19,11 @@ Cada vez que se ejerce la presión se produce una deflexión, distorsión o tamb
 
 ### Definicion de Presión
 
- En la técnica de procesos, por ejemplo, entre un 30 y un 40 % de todas las mediciones son mediciones de presiones. La presión 
- que se acumula hasta que empiece el flujo y la presión de retención son magnitudes importantes en la neumática. Las unidades de 
- mantenimiento utilizadas en sistemas neumáticos tienen que estar equipadas con un manómetro y una unidad de ajuste de la presión.
+La presión es una fuerza que ejerce sobre un área determinada, y se mide en unidades de fuerzas por unidades de área. Esta  fuerza se   puede aplicar a un punto en una superficie o distribuirse sobre esta. Cada vez que se ejerce se produce una deflexión, una distorsión o un cambio de volumen o dimensión. Las mediciones de presión pueden ser desde  valores muy bajos que se consideran un vacío, hasta miles de toneladas de por unidad de área.  
+
+En la técnica de procesos, por ejemplo, entre un 30 y un 40 % de todas las mediciones son mediciones de presiones. La presión 
+que se acumula hasta que empiece el flujo y la presión de retención son magnitudes importantes en la neumática. Las unidades de 
+mantenimiento utilizadas en sistemas neumáticos tienen que estar equipadas con un manómetro y una unidad de ajuste de la presión.
 
 Para medir la presión se utilizan sensores que están dotados de un elemento sensible a la presión y que emiten una señal eléctrica 
 al variar la presión o que provocan operaciones de conmutación si esta supera un determinado valor límite. Es importante tener en 
