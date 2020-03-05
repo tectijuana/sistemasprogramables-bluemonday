@@ -53,14 +53,20 @@ controles de proceso, maquinaria industrial, bombas y robótica.
 
 
 3.  SENSOR DE PRESION ELECTROMECANICO: RESISTIVOS
+
 ![PER](https://sites.google.com/site/tema8otrostransductores/_/rsrc/1361274694122/5-transductores-de-presion/transductores2.jpg)
+
 ![PER2](https://sites.google.com/site/tema8otrostransductores/_/rsrc/1361274725997/5-transductores-de-presion/imagen.php.jpeg?height=320&width=320)
 
 
 4.  SENSOR DE PRESION ELECTROMECANICO: INDUCCIÓN VARIABLE Y MAG. RELUCTANCIA VARIABLE.
-![PEIVMRV] ()
-5.  SENSOR DE PRESION ELECTROMECANICO: MAGNETICOCAPACITIVO.
-![PEMC] ()
+
+![PEIVMRV](https://images.slideplayer.es/62/11807123/slides/slide_21.jpg)
+
+5.  SENSOR DE PRESION ELECTROMECANICO: MAGNETICO CAPACITIVO.
+
+![PEMC](https://img.webme.com/pic/m/mediciondepresionfuerzapeso/capacitivos.bmp)
+
 6.  SENSOR DE PRESION ELECTROMECANICO: GALGAEXTENSIOMÉTRICA.
 7.  SENSOR DE PRESION ELECTRONICO
 8.  SENSOR DE PRESION ELECTONICO: TRANSDUCTOR PIRANI
