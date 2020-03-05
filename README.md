@@ -24,6 +24,7 @@ cuenta la presión que se mide, ya que pueden distinguirse los siguientes tipos:
 ### *Tipos de sensores de presión*
 
 1. SENSOR DE PRESION MECANICO
+![PM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.aliexpress.com%2Fitem%2F32948315556.html&psig=AOvVaw0Zl7hWyNbSLQhYtt9ulPiQ&ust=1583478501188000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICPsp7jgugCFQAAAAAdAAAAABAJ)
 2.  SENSOR DE PRESIÓN NEUMATICO
 3.  SENSOR DE PRESION ELECTROMECANICO: RESISTIVOS
 4.  SENSOR DE PRESION ELECTROMECANICO: INDUCCIÓN VARIABLEY MAG. RELUCTANCIA VARIABLE.
