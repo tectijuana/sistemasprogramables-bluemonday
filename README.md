@@ -8,6 +8,11 @@ sistemasprogramables-bluemonday created by GitHub Classroom
 
 
 
+ HICE UN CAMBIO
+
+
+
+
 
 | Equipo | Sensor | Notas |
 |-------------|----------------|--------------|
