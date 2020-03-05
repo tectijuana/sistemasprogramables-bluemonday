@@ -83,11 +83,11 @@ controles de proceso, maquinaria industrial, bombas y robótica.
 
 9.  SENSOR DE PRESION ELECTRONICO: TERMICO BIMETALICO
 
-![PETB]()
+![PETB](https://i0.wp.com/www.sapiensman.com/neumatica/images/medicion-de-presion11.jpg)
 
 10.  SENSOR DE PRESION ELECTRONICO: TERMOPAR
 
-![PCT]()
+![PCT](https://4.bp.blogspot.com/-rfyTQbRguI0/Up_cIB-9JyI/AAAAAAAAAGc/HDBet9AkVvY/s1600/electrico+1.png)
 
 
 
