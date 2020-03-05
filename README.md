@@ -67,11 +67,27 @@ controles de proceso, maquinaria industrial, bombas y robótica.
 
 ![PEMC](https://img.webme.com/pic/m/mediciondepresionfuerzapeso/capacitivos.bmp)
 
-6.  SENSOR DE PRESION ELECTROMECANICO: GALGAEXTENSIOMÉTRICA.
+6.  SENSOR DE PRESION ELECTROMECANICO: GALGA EXTENSIOMÉTRICA.
+
+![PEGM](https://3.bp.blogspot.com/-0hEFWOA1ZPY/Up_d57pRerI/AAAAAAAAAHQ/L81dfWdjQ6Q/s1600/em6.gif)
+
 7.  SENSOR DE PRESION ELECTRONICO
-8.  SENSOR DE PRESION ELECTONICO: TRANSDUCTOR PIRANI
+
+![PE](http://www.dacarsa.net/Imgs/ImgDesc/sensorpresion.jpg)
+
+8.  SENSOR DE PRESION ELECTRONICO: TRANSDUCTOR PIRANI
+
+![PE](https://lh3.googleusercontent.com/proxy/CgVhdlltPw-mum0UJeBNpFl7x4eoIf-79Y_KowQBEorVQ7a3L9V_98c1oNxIa55UkaAxNI9549Rtq5rj8hjGKmB6c4eBvpYouqGlhJ3-9vrfG0mrzz86I8QFRCE)
+
+![PE2](https://img.directindustry.es/images_di/projects/images-g/transductor-vacio-gases-corrosivos-38812-9925719.jpg)
+
 9.  SENSOR DE PRESION ELECTRONICO: TERMICO BIMETALICO
+
+![PETB]()
+
 10.  SENSOR DE PRESION ELECTRONICO: TERMOPAR
+
+![PCT]()
 
 
 
