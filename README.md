@@ -25,8 +25,14 @@ cuenta la presión que se mide, ya que pueden distinguirse los siguientes tipos:
 
 1. SENSOR DE PRESION MECANICO
 ![PM](https://ae01.alicdn.com/kf/HTB1hcc1jsbpK1RjSZFyq6x_qFXaZ/Sensor-mec-nico-de-presi-n-de-aceite-M10-1-NPT-1-8-para-medidor-de.jpg)
+
 2.  SENSOR DE PRESIÓN NEUMATICO
+
 ![PN](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOTAAhQibAW_uDG63_XO0JduScTG-Fdf6zcRdENoQ50_DYRcNV)
+
+
+
+
 3.  SENSOR DE PRESION ELECTROMECANICO: RESISTIVOS
 ![PER] ()
 4.  SENSOR DE PRESION ELECTROMECANICO: INDUCCIÓN VARIABLE Y MAG. RELUCTANCIA VARIABLE.
