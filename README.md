@@ -4,7 +4,7 @@ sistemasprogramables-bluemonday created by GitHub Classroom
 
 # ![](https://images.cooltext.com/5387872.gif)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Blue Monday: Logo and Graphics Generator" border="0" /></a>
 
 ## Introducción
 
@@ -13,7 +13,7 @@ Cada vez que se ejerce la presión se produce una deflexión, distorsión o tamb
 
 ## Objetivos 
 
-:radio_button: Estudiar los sensores de presión y aprender en su totalidad su funcionalidad así como también en donde se utilizan y que beneficios pueden darse de estos mismos.   
+:radio_button: Estudiar los sensores de presión y aprender en su totalidad su funcionalidad así como también en donde se utilizan y que      beneficios pueden darse de estos mismos.   
 :radio_button: Conocer distintas definiciones de presión.   
 :radio_button: Conocer tipos de sensores de presión.    
 
