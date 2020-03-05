@@ -8,10 +8,10 @@ sistemasprogramables-bluemonday created by GitHub Classroom
 
 ## Introducción
 
-La presión a la par con la temperatura conforman los conceptos que más frecuentemente se miden y controlan en los procesos químicos industriales. La presión es una fuerza que se aplica sobre un área, y se mide en unidades de fuerzas por unidades de área. Esta  fuerza se puede aplicar a un punto en una superficie o también se puede distribuir sobre la misma.  
- Cada vez que se ejerce la presión se produce una deflexión, distorsión o también le podemos denominar como cambio de volumen o dimensión. Las mediciones de presión pueden darse desde  valores muy bajos que se consideran un vacío, hasta miles de toneladas  por unidad de área. Para medir la presión se utilizan sensores que están dotados de un elemento sensible a la presión y que estos pueden emitir una señal eléctrica al variar la presión o que provocan operaciones de conmutación si esta supera un determinado valor límite. Es muy importante tener en cuenta la presión que se mide, ya que pueden distinguirse por sus diferentes tipos como: presión absoluta, presión diferencial y sobrepresión.  
+<p style='text-align: justify;'>La presión a la par con la temperatura conforman los conceptos que más frecuentemente se miden y controlan en los procesos químicos industriales. La presión es una fuerza que se aplica sobre un área, y se mide en unidades de fuerzas por unidades de área. Esta  fuerza se puede aplicar a un punto en una superficie o también se puede distribuir sobre la misma.  
+ Cada vez que se ejerce la presión se produce una deflexión, distorsión o también le podemos denominar como cambio de volumen o dimensión. Las mediciones de presión pueden darse desde  valores muy bajos que se consideran un vacío, hasta miles de toneladas  por unidad de área. Para medir la presión se utilizan sensores que están dotados de un elemento sensible a la presión y que estos pueden emitir una señal eléctrica al variar la presión o que provocan operaciones de conmutación si esta supera un determinado valor límite. Es muy importante tener en cuenta la presión que se mide, ya que pueden distinguirse por sus diferentes tipos como: presión absoluta, presión diferencial y sobrepresión. </p>  
 
-## Definicion de Presión
+# Definicion de Presión
 
  En la técnica de procesos, por ejemplo, entre un 30 y un 40 % de todas las mediciones son mediciones de presiones. La presión 
  que se acumula hasta que empiece el flujo y la presión de retención son magnitudes importantes en la neumática. Las unidades de 
