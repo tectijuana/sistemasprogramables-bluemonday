@@ -17,9 +17,9 @@ Para medir la presión se utilizan sensores que están dotados de un elemento se
 al variar la presión o que provocan operaciones de conmutación si esta supera un determinado valor límite. Es importante tener en 
 cuenta la presión que se mide, ya que pueden distinguirse los siguientes tipos:
 
-:cd:*Presión absoluta.  
-:cd:*Presión diferencial.  
-:cd:*Sobrepresión.  
+:cd:*Presión absoluta.*  
+:cd:*Presión diferencial.*  
+:cd:*Sobrepresión.*  
 
 ### *Funcionamiento*
 
