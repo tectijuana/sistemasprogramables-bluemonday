@@ -56,12 +56,12 @@ controles de proceso, maquinaria industrial, bombas y robótica.
 
 ### *Tipos de sensores de presión*
 
-| Tipos de Sensores de  Presión | Ejemplos                                                      |
-|-------------------------------|---------------------------------------------------------------|
-| sensores Mecánicos            | Manómetro.   Barómetro.   Manómetros de tipo U.               |
-| Sensores Clásicos             | Tubo de Bourdon.   Fuelle.                                    |
-| Electromecánicos              | Resistivos.   Magnéticos.   Capacitivos.   Piezoeléctricos.   |
-| Electrónicos                  |                                                               |
+| Tipos de Sensores de  Presión | Ejemplos                                                |
+|-------------------------------|---------------------------------------------------------|
+| sensores Mecánicos            | Manómetro, Barómetro, Manómetros de tipo U.             |
+| Sensores Clásicos             | Tubo de Bourdon, Fuelle.                                |
+| Electromecánicos              | Resistivos, Magnéticos, Capacitivos, Piezoeléctricos.   |
+| Electrónicos                  | Teclados.                                               |   
 
 1. SENSOR DE PRESION MECANICO
 
