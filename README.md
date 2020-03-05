@@ -130,4 +130,7 @@ El demo consiste en un arduino conectado al sensor BMP180 para medir diversos pa
 
 ## Fuentes de informacion
 
-[[1] NombreDeLafuente](http://www.google.com)
+[[1] NombreDeLafuente](http://www.google.com)  
+[[2] Universidad Nacional Experimental](https://instrumentacionunefm.files.wordpress.com/2012/05/sensores-de-presion.pdf)
+
+
