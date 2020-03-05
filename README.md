@@ -35,16 +35,17 @@ producen una salida eléctrica.
 
 ### *Características*
 
-:white_check_mark:* Estos sensores son pequeños, bajos costo y confiables.   
-:white_check_mark:* Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de condiciones ambientales.  
-:white_check_mark:* Además, ofrecen características de funcionamiento alto constantes a partir de un sensor al siguiente, 
+:white_check_mark: Estos sensores son pequeños, bajos costo y confiables.   
+:white_check_mark: Ofrecen la capacidad de repetición excelente, la alta exactitud y la confiabilidad bajo variación de condiciones ambientales.  
+:white_check_mark: Además, ofrecen características de funcionamiento alto constantes a partir de un sensor al siguiente, 
 y de la capacidad de intercambio sin la recalibración.    
-:white_check_mark:* Mejor usado para: Dispositivos médicos y de la HVAC, equipo del almacenaje de datos y de la cromatografía de gas, 
+:white_check_mark: Mejor usado para: Dispositivos médicos y de la HVAC, equipo del almacenaje de datos y de la cromatografía de gas, 
 controles de proceso, maquinaria industrial, bombas y robótica. 
 
 ### *Tipos de sensores de presión*
 
 1. SENSOR DE PRESION MECANICO
+
 ![PM](https://ae01.alicdn.com/kf/HTB1hcc1jsbpK1RjSZFyq6x_qFXaZ/Sensor-mec-nico-de-presi-n-de-aceite-M10-1-NPT-1-8-para-medidor-de.jpg)
 
 2.  SENSOR DE PRESIÓN NEUMATICO
