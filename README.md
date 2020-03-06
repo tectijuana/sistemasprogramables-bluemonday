@@ -91,7 +91,6 @@ controles de proceso, maquinaria industrial, bombas y robótica.
 ![PER2](https://sites.google.com/site/tema8otrostransductores/_/rsrc/1361274725997/5-transductores-de-presion/imagen.php.jpeg?height=320&width=320)
 
 4.  SENSOR DE PRESION ELECTROMECANICO: INDUCCIÓN VARIABLE Y MAG. RELUCTANCIA VARIABLE.
-
 ![PEIVMRV](https://images.slideplayer.es/62/11807123/slides/slide_21.jpg)
 
 5.  SENSOR DE PRESION ELECTROMECANICO: MAGNETICO CAPACITIVO.
