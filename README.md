@@ -132,7 +132,7 @@ El demo consiste en un arduino conectado al sensor BMP180 para medir diversos pa
 [[1] Universidad de Oriente "Sensores de Presión"](https://es.slideshare.net/rosangelaluiggi/unidad-ii-sensores-de-presion)    
 [[2] Universidad Nacional Experimental "Sensores de Presión"](https://instrumentacionunefm.files.wordpress.com/2012/05/sensores-de-presion.pdf)   
 [[3] Departamento de Diseño Mecánico "Sensores de Presión"](https://www.scribd.com/document/331226148/Sensores-presion-pdf)   
-[[4] Universidad de Barcelona "Optimizacion de sensores"](https://www.tesisenred.net/bitstream/handle/10803/1516/05.SMC_5de6.pdf?sequence=5&isAllowed=y)   
+[[4] Medición de presión](http://webdelprofesor.ula.ve/ingenieria/djean/index_archivos/Documentos/I3_Medicion_de_presion.pdf)   
 [[5] Wika "Instrumentos de medición de presión y temperatura"](https://www.servitecgrup.com/docs/WIKA.pdf)   
 
 
